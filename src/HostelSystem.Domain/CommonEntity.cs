@@ -2,7 +2,7 @@
 
 namespace HostelSystem.Domain
 {
-    public class CommonEntity
+    public abstract class CommonEntity
     {
         public Guid Id { get; set; }
 

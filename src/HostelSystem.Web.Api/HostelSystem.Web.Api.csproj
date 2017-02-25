@@ -111,6 +111,14 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\HostelSystem.Model\HostelSystem.Model.csproj">
+      <Project>{aa3c9064-a090-4a9a-bc50-8a2326ec64a6}</Project>
+      <Name>HostelSystem.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HostelSystem.Service\HostelSystem.Service.csproj">
+      <Project>{4e0318b7-2174-4f4c-aaba-0ff5d78e1982}</Project>
+      <Name>HostelSystem.Service</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HostelSystem.Web.Api.Utility\HostelSystem.Web.Api.Utility.csproj">
       <Project>{926641f2-c2dd-4cba-a29c-98176c19e6a7}</Project>
       <Name>HostelSystem.Web.Api.Utility</Name>

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using System.Web.Http;
+using HostelSystem.Service.Service;
 using HostelSystem.Web.Api.Utility;
 
 namespace HostelSystem.Web.Api.Controllers
