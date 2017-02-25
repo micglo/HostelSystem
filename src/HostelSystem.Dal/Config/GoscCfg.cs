@@ -11,6 +11,8 @@ namespace HostelSystem.Dal.Config
             Property(g => g.Nazwisko).IsRequired().HasMaxLength(100);
             Property(g => g.Email).IsRequired().HasMaxLength(30);
             HasKey(g => g.Id);
+            Property(g => g.Telefon).IsOptional();
+            Property(g => g.Adres).IsOptional();
         }
     }
 }

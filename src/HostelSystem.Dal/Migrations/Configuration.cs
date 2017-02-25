@@ -92,7 +92,8 @@ namespace HostelSystem.Dal.Migrations
                 Cena = 1000,
                 DataZameldowania = DateTime.UtcNow.AddHours(1),
                 DataWymeldowania = DateTime.UtcNow.AddDays(1),
-                Prowizja = 500
+                Prowizja = 500,
+                Goscie = new List<Gosc>()
             };
 
             var r2 = new Rezerwacja
@@ -102,7 +103,8 @@ namespace HostelSystem.Dal.Migrations
                 Cena = 3000,
                 DataZameldowania = DateTime.UtcNow.AddDays(1),
                 DataWymeldowania = DateTime.UtcNow.AddDays(4),
-                Prowizja = 1000
+                Prowizja = 1000,
+                Goscie = new List<Gosc>()
             };
 
             var r3 = new Rezerwacja
@@ -112,16 +114,9 @@ namespace HostelSystem.Dal.Migrations
                 Cena = 7000,
                 DataZameldowania = DateTime.UtcNow.AddHours(-8),
                 DataWymeldowania = DateTime.UtcNow.AddDays(-1),
-                Prowizja = 4000
+                Prowizja = 4000,
+                Goscie = new List<Gosc>()
             };
-
-            Rezerwacja[] rezerwacje = { r1, r2, r3 };
-            context.Rezerwacja.AddOrUpdate(r => r.KodRezerwacji, rezerwacje);
-            context.SaveChanges();
-
-            context.Entry(r1).Collection(r => r.Goscie).Load();
-            context.Entry(r2).Collection(r => r.Goscie).Load();
-            context.Entry(r3).Collection(r => r.Goscie).Load();
 
             var g1 = context.Gosc.Single(g => g.Email.Equals("michalglowaczewski@gmail.com"));
             var g2 = context.Gosc.Single(g => g.Email.Equals("j.kowalski@gmail.com"));
@@ -136,6 +131,10 @@ namespace HostelSystem.Dal.Migrations
             r2.Goscie.Add(g4);
             r2.Goscie.Add(g5);
             r3.Goscie.Add(g6);
+
+            Rezerwacja[] rezerwacje = { r1, r2, r3 };
+            context.Rezerwacja.AddOrUpdate(r => r.KodRezerwacji, rezerwacje);
+            context.SaveChanges();
         }
     }
 }

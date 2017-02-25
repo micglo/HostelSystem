@@ -8,7 +8,7 @@ namespace HostelSystem.Dal
     public class HostelSystemDbContext : DbContext
     {
         public HostelSystemDbContext()
-            : base("Data Source=ASUS-R510JK;Initial Catalog=HostelSystemDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;MultipleActiveResultSets=True")
+            : base("name=DbConnectionString")
         {
             Configuration.LazyLoadingEnabled = false;
         }
