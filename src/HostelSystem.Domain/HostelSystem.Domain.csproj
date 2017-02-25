@@ -39,7 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonEntity.cs" />
+    <Compile Include="Gosc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezerwacja.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
