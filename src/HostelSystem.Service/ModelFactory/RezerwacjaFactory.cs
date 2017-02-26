@@ -12,10 +12,10 @@ namespace HostelSystem.Service.ModelFactory
             {
                 Id = rezerwacja.Id,
                 KodRezerwacji = rezerwacja.KodRezerwacji,
-                DataUtworzenia = rezerwacja.DataUtworzenia.ToString("s"),
+                DataUtworzenia = rezerwacja.DataUtworzenia,
                 Cena = rezerwacja.Cena,
-                DataZameldowania = rezerwacja.DataZameldowania.ToString("s"),
-                DataWymeldowania = rezerwacja.DataWymeldowania.ToString("s"),
+                DataZameldowania = rezerwacja.DataZameldowania,
+                DataWymeldowania = rezerwacja.DataWymeldowania,
                 Prowizja = rezerwacja.Prowizja,
                 Goscie = rezerwacja.Goscie.Select(CreateGoscDtoModel)
             };

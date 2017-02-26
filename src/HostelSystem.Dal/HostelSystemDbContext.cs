@@ -1,6 +1,7 @@
 ﻿using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using HostelSystem.Dal.Config;
+using HostelSystem.Dal.Migrations;
 using HostelSystem.Domain;
 
 namespace HostelSystem.Dal
