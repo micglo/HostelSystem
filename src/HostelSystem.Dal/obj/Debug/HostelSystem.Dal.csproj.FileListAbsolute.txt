@@ -1,0 +1,15 @@
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\HostelSystem.Dal.dll.config
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\HostelSystem.Dal.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\HostelSystem.Dal.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\HostelSystem.Domain.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\HostelSystem.Domain.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.Migrations.DbInit.resources
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.Migrations.Gosc_Tel_Adres.resources
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.csproj.GenerateResource.Cache
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Dal\obj\Debug\HostelSystem.Dal.pdb

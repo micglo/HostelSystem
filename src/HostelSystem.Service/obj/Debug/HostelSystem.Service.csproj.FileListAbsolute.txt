@@ -1,0 +1,16 @@
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Service.dll.config
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Service.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Service.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\EntityFramework.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Dal.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Domain.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Model.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Dal.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Domain.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\HostelSystem.Model.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\EntityFramework.xml
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\obj\Debug\HostelSystem.Service.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\obj\Debug\HostelSystem.Service.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\obj\Debug\HostelSystem.Service.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Service\bin\Debug\EntityFramework.SqlServer.xml

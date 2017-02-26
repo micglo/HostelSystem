@@ -1,0 +1,6 @@
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\bin\HostelSystem.Web.dll.config
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\bin\HostelSystem.Web.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\bin\HostelSystem.Web.pdb
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\obj\Debug\HostelSystem.Web.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\obj\Debug\HostelSystem.Web.dll
+C:\Users\Michal\Documents\GitHub\HostelSystem\src\HostelSystem.Web\obj\Debug\HostelSystem.Web.pdb
